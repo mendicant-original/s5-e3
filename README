@@ -1,0 +1,49 @@
+-- RMU SESSION 5 EXERCISE 3
+
+If in doubt about how to submit, see SUBMISSION_GUIDELINES file.
+
+In this exercise, students will be implementing classic data structures and then
+demonstrating what they're good for by constructing realistic examples of them
+in use. The goal is to produce structures that feel natural to work with in 
+Ruby while learning some computer science along the way.
+
+== GUIDELINES
+
+- First, research the data structures listed on the student notes page for this
+  assignment.
+
+- When you come across one you feel you understand enough to implement, claim
+  the structure by putting your name next to it.
+
+- Implement your selected data structure, keeping in mind the goal of producing
+  clean and idiomatic Ruby code. Do not blindly follow the pseudocode or sample
+  implementations for these structures which are typically written in C, C++, or
+  Java, as you will likely end up with something that doesn't look or feel like
+  Ruby this way.
+
+- Create a practical example that illustrates what your datastructure can be
+  used for.  Try to pick a scenario that is particularly well suited for the
+  structure you chose.  Wikipedia is a good starting point for figuring out what
+  different structures were designed for.
+
+- While it's always a good idea to have automated test coverage, this problem
+  is especially well suited for the use of extensive unit testing.  Most data
+  structures have a fairly well defined set of operations they need to provide,
+  and tests will provide a great way to move those features along. If you are
+  not comfortable with writing unit tests, at least write small examples for
+  each core operation of your data structure.
+
+- Feel free to help each other study the core concepts necessary to complete
+  this exercise. My own CS experience is not especially deep, but I've tried to
+  pick some of the more common structures that developers should be familiar
+  with, so it's likely someone in the course can help you if you get stuck.
+
+- The structures I have selected for this exercise range fairly widely in their
+  difficulty to implement. Make sure to look at at least a few before deciding
+  which structure is a good match for you.
+  
+== QUESTIONS?
+
+Hit up the mailing list or IRC. RMU exercises are left deliberately open ended,
+and often benefit from some discussion before, during, and after you work on
+them.
